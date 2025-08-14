@@ -3,7 +3,7 @@
 client_id = "c650549d1df5084e762d5251d4a3d54b"
 name = "lunaroz"
 handle = "lunaroz"
-application_url = "https://served-departure-circle-genre.trycloudflare.com"
+application_url = "https://tours-shorts-entrepreneurs-warranties.trycloudflare.com"
 embedded = true
 
 [build]
@@ -26,10 +26,10 @@ api_version = "2025-07"
 scopes = "write_products,write_customers,write_customer_data_erasure,write_orders,write_returns"
 
 [auth]
-redirect_urls = ["https://served-departure-circle-genre.trycloudflare.com/auth/callback", "https://served-departure-circle-genre.trycloudflare.com/auth/shopify/callback", "https://served-departure-circle-genre.trycloudflare.com/api/auth/callback"]
+redirect_urls = ["https://tours-shorts-entrepreneurs-warranties.trycloudflare.com/auth/callback", "https://tours-shorts-entrepreneurs-warranties.trycloudflare.com/auth/shopify/callback", "https://tours-shorts-entrepreneurs-warranties.trycloudflare.com/api/auth/callback"]
 
 [app_proxy]
-url = "https://served-departure-circle-genre.trycloudflare.com"
+url = "https://tours-shorts-entrepreneurs-warranties.trycloudflare.com"
 subpath = "proxy"
 prefix = "apps"
 
